@@ -4,4 +4,4 @@ Reading Data from kaggle to colab and deep learning implementation.
 
 <b>1. Fruits_360_VGG16.ipynb:</b> A simpple walkthroguh on how to import/acces data from kaggle to colab. Implemented a simple transfer lerning using vgg16. Top layer was modified to classify 90 classes of fruits (31/12/2018). Number of classes are updated frequently in this dataset.
 
-<b>2. CNN_Keras_kaggle.ipynb:</b> A simple and direct CNN implementation of CNN using Keras. Easy to understand as only minimal and core steps are included. 
+<b>2. CNN_Keras_kaggle.ipynb:</b> A simple and direct CNN implementation of CNN using Keras. Easy to understand as only minimal and core steps are included. This file was implemented in kaggle so it includes steps to read data from kaggle database. 
